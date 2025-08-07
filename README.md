@@ -23,7 +23,7 @@ Sistem ini terintegrasi dengan plugin **Salsa LipSync** untuk memberikan animasi
 - Menggunakan komponen `Salsa2D` untuk membaca input audio/mic atau clip.
 - Otomatis menggerakkan mulut karakter sesuai dialog.
 
-### 4. 🎬 Animation Trigger Button
+### 4. Animation Trigger Button
 Tombol UI yang memungkinkan pemutaran animasi sekali saat diklik.
 
 - Menggunakan `Animator.SetTrigger()`.
